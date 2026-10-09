@@ -1,0 +1,6 @@
+{
+  "name": "MeetSpace - Meeting Operating System",
+  "description": "MeetSpace is a clean-room meeting operating system combining real-time video chat, shared whiteboards, project management boards, and integrated task tracking.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
